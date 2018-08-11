@@ -4,6 +4,8 @@ A collection of SVG pictograms representing economic activity as classified by t
 
 [NACE](http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Statistical_classification_of_economic_activities_in_the_European_Community_(NACE)) stands for "Nomenclature statistique des activités économiques dans la Communauté européenne", that is, the Statistical classification of economic activities in the European Community. It is a four-digit classification providing the framework for collecting and presenting a large range of statistical data according to economic activity in the fields of economic statistics (e.g. production, employment and national accounts) and in other statistical domains developed within the European statistical system (ESS). 
 
+<img src="Example.png" alt="Example Usage" style="width:400px;"/>
+
 The pictograms represent the highest level classifications (21 in total), coded also by letters A through U in NACE Rev. 2.
 
 # Catalog
