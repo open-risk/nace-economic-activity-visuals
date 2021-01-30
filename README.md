@@ -6,7 +6,18 @@ A collection of SVG *pictograms* representing economic activity as classified by
 
 The pictograms represent the highest level classifications (21 in total), coded also by letters A through U in NACE Rev. 2.
 
+# Example Usage
+
 Including the pictograms in the Open Risk Manual [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
+
+Forming hexagonal pattern
+
+![Example I](Example_I.png)
+
+Using the circular collection
+
+![Example II](Example_II.png)
+
 
 # The Catalog of Pictograms
 
@@ -26,7 +37,7 @@ Including the pictograms in the Open Risk Manual [wiki](https://www.openriskmanu
 
 ![H Transport](version_1.0/pictograms/square/H_Transport.svg) H Transport
 
-![I_Accomodation](version_1.0/pictograms/square/I_Accomodation.svg) I Accommodation
+![I_Accommodation](version_1.0/pictograms/square/I_Accommodation.svg) I Accommodation
 
 ![J_ICT](version_1.0/pictograms/square/J_ICT.svg) J ICT
 
