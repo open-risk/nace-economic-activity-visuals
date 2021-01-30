@@ -1,12 +1,20 @@
 # NACE Economic Activity Visuals
 
-A collection of SVG pictograms representing economic activity as classified by the NACE business sector classification. 
+A collection of SVG *pictograms* representing economic activity as classified by the NACE business sector classification. 
 
 [NACE](http://ec.europa.eu/eurostat/statistics-explained/index.php/Glossary:Statistical_classification_of_economic_activities_in_the_European_Community_(NACE)) stands for "Nomenclature statistique des activités économiques dans la Communauté européenne", that is, the Statistical classification of economic activities in the European Community. It is a four-digit classification providing the framework for collecting and presenting a large range of statistical data according to economic activity in the fields of economic statistics (e.g. production, employment and national accounts) and in other statistical domains developed within the European statistical system (ESS). 
 
-The pictograms represent the highest level classifications (21 in total), coded also by letters A through U in NACE Rev. 2.
+The pictograms represent the highest level classifications (21 in total), coded also by letters A through U in NACE Rev. 2. For an onlien browser of definitions (including all subsections) [see here](https://www.openriskmanual.org/wiki/NACE_Classification)
 
-# Catalog
+# Examples of Usage
+
+<img src="Example_I.png" alt="Example Usage I" style="width:400px;"/>
+
+<img src="Example_II.png" alt="Example Usage II" style="width:400px;"/>
+
+Including the pictograms in the Open Risk Manual [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
+
+# The Catalog of Pictograms
 
 ![A_Agriculture](version_1.0/pictograms/square/A_Agriculture.svg) A Agriculture
 
@@ -24,7 +32,7 @@ The pictograms represent the highest level classifications (21 in total), coded 
 
 ![H Transport](version_1.0/pictograms/square/H_Transport.svg) H Transport
 
-![I_Accomodation](version_1.0/pictograms/square/I_Accomodation.svg) I Accomodation
+![I_Accomodation](version_1.0/pictograms/square/I_Accomodation.svg) I Accommodation
 
 ![J_ICT](version_1.0/pictograms/square/J_ICT.svg) J ICT
 
@@ -53,10 +61,11 @@ The pictograms represent the highest level classifications (21 in total), coded 
 
 # Files
 
-* Readme.md, this file
+* README.md, this file
 * Catalog.ods, spreadsheet with brief description of each pictogram and attribution of sources (where applicable)
 * version_1.0/pictograms/circular/*.svg, collection of pictograms with circular border
 * version_1.0/pictograms/square/*.svg, collection of pictograms with square border
+* version_1.0/pictograms/hexagonal/*.svg, collection of pictograms with hexagonal border
 
 
 # License
