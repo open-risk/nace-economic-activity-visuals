@@ -10,13 +10,13 @@ The pictograms represent the highest level classifications (21 in total), coded 
 
 # Example Usage
 
-Including the pictograms in the Open Risk Manual [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
+You can see the pictograms in live action as they are included in the Open Risk Manual [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
 
-Forming hexagonal pattern
+## Forming hexagonal patterns
 
 ![Example I](Example_I.png)
 
-Using the circular collection
+## Using the circular collection
 
 ![Example II](Example_II.png)
 
@@ -65,6 +65,13 @@ Using the circular collection
 
 ![U_NGO](version_1.0/pictograms/square/U_NGO.svg) U Supranational Entities
 
+
+# The "Other" Category
+
+Occasionally there may be a need to visualize an additional sector that is an aggregate. In this case the "Other" pictogram
+can be used and is available in all three geometries.
+
+![Other](version_1.0/pictograms/square/Other.svg) "Other" Category
 
 # Files
 
