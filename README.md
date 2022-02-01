@@ -1,3 +1,5 @@
+[![Gitter](https://badges.gitter.im/open-risk/openNPL.svg)](https://gitter.im/open-risk/economic-activity-visuals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 # NACE Economic Activity Visuals
 
 A collection of SVG *pictograms* representing economic activity as classified by the NACE business sector classification. 
