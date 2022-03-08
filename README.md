@@ -20,6 +20,9 @@ You can see the pictograms in live action as they are included in the Open Risk 
 
 ![Example II](Example_II.png)
 
+## Using the tiles to form an Input-Output Matrix
+
+![Example III](Example_III.png)
 
 # The Catalog of Pictograms
 
