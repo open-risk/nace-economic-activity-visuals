@@ -1,5 +1,3 @@
-[![Gitter](https://badges.gitter.im/open-risk/openNPL.svg)](https://gitter.im/open-risk/economic-activity-visuals?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
-
 # NACE Economic Activity Visuals
 
 A collection of SVG *pictograms* representing economic activity as classified by the NACE business sector classification. 
@@ -86,8 +84,5 @@ can be used and is available in all three geometries.
 
 
 # License
-Creative Commons Commercial, Attribution, Share-alike
 
-Licensees may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author or licensor the credits (attribution) in the manner specified by these. 
-
-Licensees may distribute derivative works only under a license identical ("not more restrictive") to the license that governs the original work. (See also copyleft.) Without share-alike, derivative works might be sublicensed with compatible but more restrictive license clauses, e.g. CC BY to CC BY-NC.) 
+[Creative Commons Commercial, Attribution, Share-alike](LICENSE.txt)
