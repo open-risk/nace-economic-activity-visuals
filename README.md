@@ -8,7 +8,10 @@ The pictograms represent the highest level classifications (21 in total), coded 
 
 # Example Usage
 
-You can see the pictograms in live action as they are included in the Open Risk Manual [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
+You can see the pictograms in live action as they are included in the Open Risk Manual:
+
+* The [NACE Category](https://www.openriskmanual.org/wiki/Category:NACE_Classification)
+* The EU Taxonomy [wiki](https://www.openriskmanual.org/wiki/EU_Taxonomy_Sector_Coverage)
 
 ## Forming hexagonal patterns
 
